@@ -1,0 +1,53 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Buttons"
+    },
+    {
+      "id": 3,
+      "name": "Lollipop"
+    }
+  ],
+  "completions": [
+    {
+      "clownId": 1,
+      "reservationId": 4,
+      "dateCompleted": 1671737169683,
+      "id": 1
+    }
+  ],
+  "reservations": [
+    {
+      "partyParentName": "John Roberts",
+      "partyAddress": "2510 Reeves",
+      "partyChildName": "Aiden Golden",
+      "partyDate": "2022-12-31",
+      "partyLength": "3",
+      "partyNumber": "3",
+      "id": 1
+    },
+    {
+      "partyParentName": "Monique Chelius",
+      "partyAddress": "20 9th Street",
+      "partyChildName": "Anastasia",
+      "partyDate": "2022-12-29",
+      "partyLength": "2",
+      "partyNumber": "3",
+      "id": 3
+    },
+    {
+      "partyParentName": "Janet Roberts",
+      "partyAddress": "2510 Reeves",
+      "partyChildName": "Scott",
+      "partyDate": "2023-01-22",
+      "partyLength": "1",
+      "partyNumber": "4",
+      "id": 4
+    }
+  ]
+}
